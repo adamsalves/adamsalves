@@ -1,5 +1,7 @@
-### Hi there 👋
-Meu nome é Adams Alves e sou desenvolvedor Front-End e WordPress 
+### Olá 👋
+Meu nome é Adams Alves e sou desenvolvedor web.
+Trabalho com Front-End usando as tecnologias ES6+, Vue.js, HTML5, CSS3, SASS e com desenvolvimento de temas WordPress.
+
 - 📫 Entre em contato comigo: contato@adamsalves.com.br
 - ⚡ Meu site: https://adamsalves.com.br
 - 🔭 Gostou de algum conteúdo, me apoie no Ko-fi :) https://ko-fi.com/adamsalves
