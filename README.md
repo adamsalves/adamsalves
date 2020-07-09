@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+Meu nome é Adams Alves e sou desenvolvedor Front-End e WordPress 
+- 📫 Entre em contato comigo: contato@adamsalves.com.br
+- ⚡ Meu site: https://adamsalves.com.br
+- 🔭 Gostou de algum conteúdo, me apoie no Ko-fi :) https://ko-fi.com/adamsalves
 <!--
 **adamsalves/adamsalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
