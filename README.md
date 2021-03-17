@@ -5,6 +5,8 @@ Trabalho com Front-End usando as tecnologias ES6+, Vue.js, HTML5, CSS3, SASS e c
 - 📫 Entre em contato comigo: contato@adamsalves.com.br
 - ⚡ Meu site: https://adamsalves.com.br
 - 🔭 Gostou de algum conteúdo, me apoie no Ko-fi :) https://ko-fi.com/adamsalves
+
+![Metrics](https://metrics.lecoq.io/adamsalves?template=terminal&config.timezone=America%2FSao_Paulo)
 <!--
 **adamsalves/adamsalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
