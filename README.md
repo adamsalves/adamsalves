@@ -1,6 +1,6 @@
 ### Olá 👋
 Meu nome é Adams Alves e sou desenvolvedor web.
-Trabalho com Front-End usando as tecnologias ES6+, Vue.js, HTML5, CSS3, SASS.
+Trabalho com Front-End usando as tecnologias ES6+, Vue.js, HTML5, CSS3, SASS, STYLUS.
 
 - 📫 Entre em contato comigo: contato@adamsalves.com.br
 - ⚡ Meu site: https://adamsalves.com.br
