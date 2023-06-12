@@ -7,7 +7,6 @@ Trabalho com Front-End usando as tecnologias ES6+, Vue.js, HTML5, CSS3, SASS, ST
 - 🔭 Gostou de algum conteúdo, me apoie no Ko-fi :) https://ko-fi.com/adamsalves
 - 🌱 Atualmente estou aprendendo React, GraphQL e testes (TDD) em Javascript 
 
-![Metrics](https://metrics.lecoq.io/adamsalves?template=classic&introduction=1&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&config.timezone=America%2FSao_Paulo)
 <!--
 **adamsalves/adamsalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
