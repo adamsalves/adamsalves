@@ -1,10 +1,10 @@
 ### Olá 👋
 Meu nome é Adams Alves e sou desenvolvedor web.
-Trabalho com Front-End usando as tecnologias ES6+, Vue.js, HTML5, CSS3, SASS, STYLUS.
+Trabalho com Javascript (ES6+) e Front-End usando as tecnologias Vue.js, React, HTML5, CSS3, SASS, STYLUS.
 
 - 📫 Entre em contato comigo: contato@adamsalves.com.br
-- ⚡ Meu site: https://adamsalves.com.br
-- 🌱 Atualmente estou aprendendo React, GraphQL e testes (TDD) em Javascript 
+- ⚡ Meu site: https://adamsalves.dev
+- 🌱 Atualmente estou me aperfeiçoando em React, GraphQL e testes (TDD) em Javascript 
 
 <!--
 **adamsalves/adamsalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
