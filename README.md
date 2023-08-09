@@ -4,7 +4,8 @@ Trabalho com Javascript (ES6+) e Front-End usando as tecnologias Vue.js, React, 
 
 - 📫 Entre em contato comigo: contato@adamsalves.com.br
 - ⚡ Meu site: https://adamsalves.dev
-- 🌱 Atualmente estou me aperfeiçoando em React, GraphQL e testes (TDD) em Javascript e aprendendo Golang 🏗
+- 🌱 Atualmente estou me aperfeiçoando em React, GraphQL e testes (TDD) em Javascript
+- 🏗 Aprendendo Golang
 <!--
 **adamsalves/adamsalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
